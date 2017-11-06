@@ -1,0 +1,72 @@
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 11$ g++ Assignment11.cpp 
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 11$ ./a.out 
+
+ 1. Create
+ 2. Search
+ 3. Print
+ 4. Quit
+Enter ur choice1
+Enter key and meaningMad
+Crazy
+
+ 1. Create
+ 2. Search
+ 3. Print
+ 4. Quit
+Enter ur choice1
+Enter key and meaningBanana
+Fruit
+
+ 1. Create
+ 2. Search
+ 3. Print
+ 4. Quit
+Enter ur choice1
+Enter key and meaningKing
+Ruler
+
+ 1. Create
+ 2. Search
+ 3. Print
+ 4. Quit
+Enter ur choice1
+Enter key and meaningRose
+Flower
+
+ 1. Create
+ 2. Search
+ 3. Print
+ 4. Quit
+Enter ur choice3
+
+ Preorder is::
+King	Ruler
+Banana	Fruit
+Mad	Crazy
+Rose	Flower
+ Inorder is::
+Banana	Fruit
+King	Ruler
+Mad	Crazy
+Rose	Flower
+ 1. Create
+ 2. Search
+ 3. Print
+ 4. Quit
+Enter ur choice2
+
+ Enter data to searchKing
+Meaning is::Ruler
+ 1. Create
+ 2. Search
+ 3. Print
+ 4. Quit
+Enter ur choice2
+
+ Enter data to searchName
+Key not found!!!
+ 1. Create
+ 2. Search
+ 3. Print
+ 4. Quit
+Enter ur choice4

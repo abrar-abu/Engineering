@@ -1,0 +1,84 @@
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 8$ g++ Assignment8.cpp 
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 8$ ./a.out 
+
+
+
+
+
+WHAT DO U WANT TO PURCHASE FROM THE MALL
+			1.Vegetables
+			2.Fruits
+			3.EXIT
+Enter A Choice from above 			:1
+Enter the Number of vegetables			:3
+Enter the name of vegetable 			:Tomato
+Enter the priority of Tomato			:35
+Enter the name of vegetable 			:Potato
+Enter the priority of Potato			:25
+Enter the name of vegetable 			:Cabbage
+Enter the priority of Cabbage			:30
+
+
+
+
+
+WHAT DO U WANT TO PURCHASE FROM THE MALL
+			1.Vegetables
+			2.Fruits
+			3.EXIT
+Enter A Choice from above 			:2
+Enter the Number of Fruits			:2
+Enter the name of Fruits 			:Apple
+Enter the priority of Apple			:65
+Enter the name of Fruits 			:Banana
+Enter the priority of Banana			:50
+
+
+
+
+
+WHAT DO U WANT TO PURCHASE FROM THE MALL
+			1.Vegetables
+			2.Fruits
+			3.EXIT
+Enter A Choice from above 			:1
+Enter the Number of vegetables			:1
+Enter the name of vegetable 			:Cucumber
+Enter the priority of Cucumber			:20
+
+
+
+
+
+WHAT DO U WANT TO PURCHASE FROM THE MALL
+			1.Vegetables
+			2.Fruits
+			3.EXIT
+Enter A Choice from above 			:2
+Enter the Number of Fruits			:2
+Enter the name of Fruits 			:Mango
+Enter the priority of Mango			:105
+Enter the name of Fruits 			:Orange
+Enter the priority of Orange			:65
+
+
+
+
+
+WHAT DO U WANT TO PURCHASE FROM THE MALL
+			1.Vegetables
+			2.Fruits
+			3.EXIT
+Enter A Choice from above 			:3
+-----------------THANK YOU FOR PUCHASING DO VISIT US AGAIN------------------
+-------------------MODERN EDUCATION SOCIETY MALL-------------------
+Sr. No.			 NAME			 FREQUENCY COUNT
+1			Mango				105
+2			Apple				65
+3			Orange				65
+4			Banana				50
+5			Tomato				35
+6			Cabbage				30
+7			Potato				25
+8			Cucumber				20
+

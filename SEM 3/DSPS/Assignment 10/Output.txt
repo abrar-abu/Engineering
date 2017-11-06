@@ -1,0 +1,51 @@
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 10$ g++ Assignment10.cpp 
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 10$ ./a.out 
+
+Enter the number of vertices:	6
+
+Enter the weights between1 and2:	1
+
+Enter the weights between1 and3:	9
+
+Enter the weights between1 and4:	3
+
+Enter the weights between1 and5:	6
+
+Enter the weights between1 and6:	9
+
+Enter the weights between2 and3:	8
+
+Enter the weights between2 and4:	2
+
+Enter the weights between2 and5:	5
+
+Enter the weights between2 and6:	4
+
+Enter the weights between3 and4:	8
+
+Enter the weights between3 and5:	2
+
+Enter the weights between3 and6:	3
+
+Enter the weights between4 and5:	10
+
+Enter the weights between4 and6:	11
+
+Enter the weights between5 and6:	7
+
+Minimum distance is::	12
+The matrix representation is:
+	999	1	9	3	6	9
+	1	999	8	2	5	4
+	9	8	999	8	2	3
+	3	2	8	999	10	11
+	6	5	2	10	999	7
+	9	4	3	11	7	999
+
+The spanning tree is:
+	0	1	0	0	0	0
+	1	0	0	2	0	4
+	0	0	0	0	2	3
+	0	2	0	0	0	0
+	0	0	2	0	0	0
+	0	4	3	0	0	0

@@ -1,0 +1,25 @@
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 9$ python Assignment9.py 
+     ----------Bubble Sort Using Python----------
+
+
+Enter the number of elements to be sorted:  5
+
+Enter 1 Element:  21
+
+Enter 2 Element:  56
+
+Enter 3 Element:  85
+
+Enter 4 Element:  20
+
+Enter 5 Element:  02
+
+Sorted Elements are:
+
+
+2 
+20 
+21 
+56 
+85 
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 9$ 

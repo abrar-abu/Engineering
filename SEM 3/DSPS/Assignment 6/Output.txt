@@ -1,0 +1,56 @@
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 4$ cd ../Assignment\ 6/
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 6$ g++ Assignment6.cpp 
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 6$ ./a.out 
+
+1.Create TBT
+2.Inorder TBT
+3.Preorder TBT
+4.Exit
+Enter your choice :1
+
+Enter the data 50
+
+Do you want to attach more nodes [y/n] y
+
+Enter the data 30
+
+Do you want to attach more nodes [y/n] y
+
+Enter the data 60
+
+Do you want to attach more nodes [y/n] y
+
+Enter the data 15
+
+Do you want to attach more nodes [y/n] y
+
+Enter the data 40
+
+Do you want to attach more nodes [y/n] y
+
+Enter the data 55
+
+Do you want to attach more nodes [y/n] y
+
+Enter the data 70
+
+Do you want to attach more nodes [y/n] n
+
+1.Create TBT
+2.Inorder TBT
+3.Preorder TBT
+4.Exit
+Enter your choice :2
+ 15 30 40 50 55 60 70
+1.Create TBT
+2.Inorder TBT
+3.Preorder TBT
+4.Exit
+Enter your choice :3
+ 50 30 15 40 60 55 70
+1.Create TBT
+2.Inorder TBT
+3.Preorder TBT
+4.Exit
+Enter your choice :4
+
