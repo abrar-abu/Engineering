@@ -1,0 +1,207 @@
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 4$ g++ Assignment4.cpp 
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 4$ ./a.out 
+******************DICTIONARY*********************
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+1
+Enter the number of words:-	4
+Enter the word:-	Dog
+Enter the meaning:-	Animal
+
+Enter the word:-	Apple
+Enter the meaning:-	Fruit
+
+Enter the word:-	Potato
+Enter the meaning:-	Vegetable
+
+Enter the word:-	Mobile Phone
+Enter the meaning:-	
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+3
+1.Word:-	Dog
+  Meaning:-	Animal
+
+2.Word:-	Apple
+  Meaning:-	Fruit
+
+3.Word:-	Potato
+  Meaning:-	Vegetable
+
+4.Word:-	Mobile
+  Meaning:-	Phone
+
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+2
+Enter the position of the word u wish to delete:-	4
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+3
+1.Word:-	Dog
+  Meaning:-	Animal
+
+2.Word:-	Apple
+  Meaning:-	Fruit
+
+3.Word:-	Potato
+  Meaning:-	Vegetable
+
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+4
+Enter the position of the word u wish to insert:-	4
+Enter the word:-	Mobile
+Enter the meaning:-	Device
+
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+3
+1.Word:-	Dog
+  Meaning:-	Animal
+
+2.Word:-	Apple
+  Meaning:-	Fruit
+
+3.Word:-	Potato
+  Meaning:-	Vegetable
+
+4.Word:-	Mobile
+  Meaning:-	Device
+
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+5
+Enter the word you wish to modify:-	Mobile
+Enter the meaning for the word:-	Phone
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+3
+1.Word:-	Dog
+  Meaning:-	Animal
+
+2.Word:-	Apple
+  Meaning:-	Fruit
+
+3.Word:-	Potato
+  Meaning:-	Vegetable
+
+4.Word:-	Mobile
+  Meaning:-	Phone
+
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+6
+Enter the word you wish to search:-	Potato
+Word found at position:-	3
+Meaning:-	Vegetable
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+6
+Enter the word you wish to search:-	Human
+Word not fund in the list.
+
+
+------------------------------------------------------------------
+
+Enter your choice 
+1.Create word.
+2.Delete word.
+3.Display entire list
+4.Insert
+5.Modify
+6.Search
+7.Exit
+7
+********************THANKYOU*******************
+

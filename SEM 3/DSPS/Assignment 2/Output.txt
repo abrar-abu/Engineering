@@ -1,0 +1,255 @@
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 2$ g++ Assignment2.cpp 
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 2$ ./a.out 
+
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+1
+
+Enter the data:25
+
+You want to enter more nodes?:y
+
+Enter the data:20
+
+You want to enter more nodes?:y
+
+Enter the data:15
+
+You want to enter more nodes?:n
+
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+2
+25==> 20==> 15==> 
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+3
+
+Enter data:30
+
+Node is inserted!
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+2
+30==> 25==> 20==> 15==> 
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+4
+
+Enter the data:10
+
+Node is inserted!!
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+2
+30==> 25==> 20==> 15==> 10==> 
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+5
+
+Enter the data:22
+
+Enter the element after which you want to insert node:25
+
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+2
+30==> 25==> 22==> 20==> 15==> 10==> 
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+6
+
+Deleted the node at the beginning!!
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+2
+25==> 22==> 20==> 15==> 10==> 
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+7
+
+ node in the last is deleted
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+2
+25==> 22==> 20==> 15==> 
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+8
+
+Enter the data you want to delete:22
+
+Node is deleted
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+2
+25==> 20==> 15==> 
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+9
+
+Enter the element you want to search:20
+
+The node is present
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+9
+
+Enter the element you want to search:10
+The node is not present
+ Enter the option you want to perform with nodes: 
+1.CREATE 
+2.DISPLAY 
+3.INSERT AT BEGINNING 
+4.INSERT AT END 
+5.INSERT IN BETWEEN 
+6.DELETE NODE AT BEGINNING 
+7.DELETE THE NODE AT THE END 
+8.DELETE IN BETWEEN 
+9.SEARCH THE NODE 
+10.EXIT 
+10

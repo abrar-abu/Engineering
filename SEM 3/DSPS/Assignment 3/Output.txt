@@ -1,0 +1,53 @@
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 3$ g++ Assignment3.cpp 
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 3$ ./a.out 
+Which operation do u want to perform 
+
+			1. Inorder and Preorder :
+			2. Inorder and Postorder :
+			3. Exit :
+	1
+Enter The Inorder
+BCAEDGHFI
+The Entered Inorder is BCAEDGHFI
+Enter The Preorder
+ABCDEFGHI
+The Entered Preorder is ABCDEFGHI
+
+
+	-----OUTPUT------
+
+	
+Inorder is: BCAEDGHFI
+Preorder is:  ABCDEFGHI
+Postorder is: CBEHGIFDA
+Do you want to continue Y/N :Y
+Which operation do u want to perform 
+
+			1. Inorder and Preorder :
+			2. Inorder and Postorder :
+			3. Exit :
+	2
+Enter The Inorder
+DBFEAGCLJHK
+The Entered Inorder is DBFEAGCLJHK
+Enter The Postorder
+DFEBGLJKHCA
+The Entered Postorder is DFEBGLJKHCA
+
+
+	-----OUTPUT------
+
+	
+Inorder is: DBFEAGCLJHK
+Postorder is: DFEBGLJKHCA
+Preorder is:  ABDEFCGHJLK
+Do you want to continue Y/N :Y
+Which operation do u want to perform 
+
+			1. Inorder and Preorder :
+			2. Inorder and Postorder :
+			3. Exit :
+	3
+------------------------THANK YOU----------------------------
+
+Do you want to continue Y/N :n

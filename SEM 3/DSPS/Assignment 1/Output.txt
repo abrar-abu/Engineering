@@ -1,0 +1,100 @@
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 1$ g++ Assignment1.cpp 
+ubuntu@Abu:~/Downloads/fwddsps/Assignment 1$ ./a.out 
+
+Enter the number of Elements of the array 	5
+Total number of Elements are 5
+Enter the Elements in array 	
+	52
+	20
+	85
+	10
+	25
+**********Differnt type of sort**********
+	1 Quick Sort
+	2 Merge Sort
+	3 Shell Sort
+	4 Radix Sort
+Enter type of sort u want to perform 	1
+Enter Choice is 1
+**************QuickSort**************
+
+Sorted array is 
+	10
+	20
+	25
+	52
+	85
+Do u want to continue Yes or No 	
+y
+Do u want to continue With same numbers yes or no 	
+y
+**********Differnt type of sort**********
+	1 Quick Sort
+	2 Merge Sort
+	3 Shell Sort
+	4 Radix Sort
+Enter type of sort u want to perform 	2
+Enter Choice is 2
+**************Merge Sort**************
+
+Sorted array is 
+	10
+	20
+	25
+	52
+	85
+Do u want to continue Yes or No 	
+y
+Do u want to continue With same numbers yes or no 	
+y
+**********Differnt type of sort**********
+	1 Quick Sort
+	2 Merge Sort
+	3 Shell Sort
+	4 Radix Sort
+Enter type of sort u want to perform 	3
+Enter Choice is 3
+**************Shell Sort**************
+
+Sorted array is 
+	10
+	20
+	25
+	52
+	85
+Do u want to continue Yes or No 	
+y
+Do u want to continue With same numbers yes or no 	
+y
+**********Differnt type of sort**********
+	1 Quick Sort
+	2 Merge Sort
+	3 Shell Sort
+	4 Radix Sort
+Enter type of sort u want to perform 	4
+Enter Choice is 4
+**************Radix Sort**************
+
+Largest number in a is85
+Total number of pass are 2
+Sorted array is 
+	10
+	20
+	25
+	52
+	85
+Do u want to continue Yes or No 	
+y
+Do u want to continue With same numbers yes or no 	
+y
+**********Differnt type of sort**********
+	1 Quick Sort
+	2 Merge Sort
+	3 Shell Sort
+	4 Radix Sort
+Enter type of sort u want to perform 	0
+Enter Choice is 0
+Entered Choice is Wrong
+
+Do u want to continue Yes or No 	
+n
